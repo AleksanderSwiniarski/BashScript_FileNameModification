@@ -4,6 +4,6 @@ Simple bash script dedicated for modifying file names. It can lowerize, uppercas
 
 Script allows for following syntax:
 
-  modify [-r] [-l|-u] <dir/file names...>
-  modify [-r] <sed pattern> <dir/file names...>
-  modify [-h]
+  - modify [-r] [-l|-u] <dir/file names...>
+  - modify [-r] <sed pattern> <dir/file names...>
+  - modify [-h]
